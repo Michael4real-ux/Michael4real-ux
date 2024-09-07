@@ -1,7 +1,7 @@
 # 👋 Hello, I'm <span style="color:#4CAF50;">Dammy</span>!
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/223527377-54623b43-2e70-4d29-a1a1-034f8f947f79.png" alt="Banner Image" style="width:100%; height:auto;">
+  <img src="https://github.com/user-attachments/assets/1806157b-77a0-4874-94ba-0791c3314c0f" alt="Banner Image" style="width:100%; height:auto;">
 </p>
 
 ![GitHub followers](https://img.shields.io/github/followers/Michael4real-ux?style=social&logo=github)
@@ -55,15 +55,15 @@ I'm a <span style="color:#00C4CC;">Software Engineer</span> with a passion for d
 
 ## 🏆 <span style="color:#FFD700;">Achievements</span>
 
-- 🏅 **Open Source Contributor**: Contributed to [ProjectName](https://github.com/projectname).
+<!-- -- 🏅 **Open Source Contributor**: Contributed to [ProjectName](https://github.com/projectname).-->
 - 🎓 **Certification**: Certified in [AWS, Google Cloud, etc.].
 
 ---
 
 ## 📫 <span style="color:#4169E1;">Let's Connect!</span>
 
-- [LinkedIn](https://www.linkedin.com/in/yourname)
-- [Personal Website](https://yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/damilolababalola-/)
+<!-- - [Personal Website](https://yourwebsite.com) -->
 
 ---
 
