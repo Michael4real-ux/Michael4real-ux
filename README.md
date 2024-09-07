@@ -1,9 +1,9 @@
 # 👋 Hello, I'm <span style="color:#4CAF50;">Dammy</span>!
-
+<!-- -- 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1806157b-77a0-4874-94ba-0791c3314c0f" alt="Banner Image" style="width:100%; height:auto;">
 </p>
-
+-->
 ![GitHub followers](https://img.shields.io/github/followers/Michael4real-ux?style=social&logo=github)
 ![GitHub stars](https://img.shields.io/github/stars/Michael4real-ux?style=social&logo=github)
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)
